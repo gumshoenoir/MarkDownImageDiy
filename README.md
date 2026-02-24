@@ -5,6 +5,9 @@ https://marketplace.visualstudio.com/items?itemName=hancel.markdown-image
 
 A custom DIY script for the Markdown Image VS Code extension that fixes image‑paste workflows for Hugo page bundles, SSH remotes, and multi‑platform clipboard sources.
 
+Full write‑up and background on this workflow:  
+https://gumshoenoir.com/posts/hancel-markdown-image-extension-diy/
+
 Although originally built to solve Hugo‑specific issues, this script is not limited to Hugo.  
 It works with any Markdown‑based workflow where you want predictable, local image placement and clean relative links.
 
@@ -156,13 +159,6 @@ MarkDownImageDiy/
 ├── MarkDownImageDiy.js   # The DIY script  
 ├── LICENSE               # MIT License  
 └── README.md             # This file  
-
----
-
-## Further Reading
-
-Full write‑up and background on this workflow:  
-https://gumshoenoir.com/posts/hancel-markdown-image-extension-diy/
 
 ---
 
