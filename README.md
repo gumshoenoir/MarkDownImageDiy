@@ -95,13 +95,13 @@ cd your-hugo-site
 git submodule add https://github.com/gumshoenoir/MarkDownImageDiy.git tools/MarkDownImageDiy
 
 This creates:
-
+```
 your-hugo-site/  
 └── tools/  
     └── MarkDownImageDiy/  
         ├── MarkDownImageDiy.js  
         └── README.md  
-
+```
 Then update your VS Code settings:
 
 {
