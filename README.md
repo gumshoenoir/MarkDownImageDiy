@@ -167,6 +167,8 @@ MarkDownImageDiy/
 This script is intentionally small and focused.  
 If you want to extend it (e.g., custom filename patterns, subfolder rules, or Hugo shortcodes), feel free to open an issue or PR.
 
+However I'm hoping this script will become obseleted with enhancments to the extension and the vscode api
+
 ---
 
 ## Related
